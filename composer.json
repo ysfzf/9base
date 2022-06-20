@@ -1,11 +1,12 @@
 {
-    "name": "laravel/laravel",
+    "name": "mynameisfzf/9base",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "Laravel9 Dcat jwt",
+    "keywords": ["framework", "laravel","Dcat","jwt"],
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
+        "dcat/laravel-admin": "2.*",
         "guzzlehttp/guzzle": "^7.2",
         "hhxsv5/laravel-s": "^3.7",
         "laravel/framework": "^9.11",
